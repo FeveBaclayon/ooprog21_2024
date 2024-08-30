@@ -4,6 +4,6 @@ import javax.swing.JOptionPane;
    
       public static void main(String[] args){
          
-         JOptionPane.showMessageDialog(null, "Hello Philippines!");
+         JOptionPane.showMessageDialog(null, "Hello World!");
       }
    }
